@@ -2,7 +2,7 @@
 
 IntelliJ IDEA 12 CE project template with Maven, demonstrating access to Apache Derby 10.10.1.1 with Hibernate 4.2.1.
 
-The project implements the [hibernate annotations tutorial][1] with custom test class AppTest.java.
+The project implements the [hibernate annotations tutorial][1] with the test class AppTest, which shows how to persist the annotated entity Event.
 
 [1]:http://docs.jboss.org/hibernate/orm/3.6/quickstart/en-US/html/hibernate-gsg-tutorial-annotations.html
 
@@ -23,7 +23,7 @@ The project implements the [hibernate annotations tutorial][1] with custom test 
    1. Choose test.
    1. Click "Run Maven Build".
 
-If all tests pass, everything has been successfully set up. If there are test failures, check:
+If all tests pass, everything has been successfully set up to serve as a base for further experimentation. If there are test failures, check:
 
 * Your Derby server is set up properly.
 * Your hibernate.cfg.xml file contains correct settings.
