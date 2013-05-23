@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-protohibmvn.iml" filepath="$PROJECT_DIR$/java-protohibmvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-mvn-derby-hibernate-template.iml" filepath="$PROJECT_DIR$/idea-mvn-derby-hibernate-template.iml" />
     </modules>
   </component>
 </project>
